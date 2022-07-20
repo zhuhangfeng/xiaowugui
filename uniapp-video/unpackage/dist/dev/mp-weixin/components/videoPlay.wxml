@@ -1,0 +1,1 @@
+<view class="video-box"><video class="video" id="myVideo" autoplay="{{autoplay}}" controls="true" src="{{videoItem.playUrl}}" data-event-opts="{{[['tap',[['isPlay',['$event']]]]]}}" bindtap="__e"></video><view hidden="{{!(!isplay)}}" class="iconfont icon-kaishi1 iconStyle"></view></view>

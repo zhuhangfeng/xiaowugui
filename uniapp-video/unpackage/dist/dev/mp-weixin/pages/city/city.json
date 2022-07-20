@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "first-nav": "/components/firstNav",
+    "tab": "/components/Tab"
+  }
+}

@@ -1,0 +1,8 @@
+
+.content{
+	background-color: aquamarine;
+}
+.content2{
+	background-color: black;
+}
+

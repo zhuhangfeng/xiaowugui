@@ -1,0 +1,1 @@
+<view class="content"><view class="username">{{'@'+videoItem.userName+''}}</view><view class="title">{{''+videoItem.title+''}}</view><view class="music"><view class="music2">海阔天空</view></view></view>

@@ -1,0 +1,36 @@
+
+.firstNav{
+	color: white;
+	width: 100%;
+	position: fixed;
+	top: 20px;
+	left: 0;
+	display: flex;
+	align-items: center;
+	background-color: transparent;
+	z-index: 5;
+}
+.iconStyle{
+	position: absolute;
+	left: 20px;
+	font-size: 20px;
+}
+.firstNavText{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.home{
+	margin: 10px;
+}
+.guanzhu{
+	margin: 10px;
+}
+.isWhite{
+	color: #fff;
+}
+.isHuise{
+	color: gainsboro;
+}
+
